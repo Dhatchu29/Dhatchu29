@@ -1,16 +1,31 @@
-## Hi there 👋
+ Hi, I'm Dhatchayani 👋
 
-<!--
-**Dhatchu29/Dhatchu29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 💻 Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 B.Tech Information Technology Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **🚀 About Me**
+- Passionate about Full Stack Development
+- Skilled in React.js, Spring Boot, MySQL
+- Interested in Web Development and UI/UX
+- Looking for Internship Opportunities
+
+ **🛠️ Technical Skills**
+- Java
+- React.js
+- Spring Boot
+- MySQL
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+** 📂 Projects**
+
+### 🍽️ DishCraft
+Frontend recipe website built using React.js with responsive UI and interactive components.
+
+### 🎯 Smart Career Guidance
+Full Stack application using React.js, Spring Boot, and MySQL to guide students in choosing suitable career paths.
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/feed/
+- Email: dhatchu589@gmail.com
